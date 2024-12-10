@@ -1,1 +1,1 @@
-# Graph-Data-Mining-Course-Project
+# Graph Data Mining Course Project
